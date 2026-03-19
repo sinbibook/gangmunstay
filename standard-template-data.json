@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-03-18T04:04:00.899Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-03-19T07:48:09.921Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
     "homepageId": "9d3e992e-9848-41ca-a732-6664fa405731"
@@ -79,7 +79,36 @@
         "description": "사계절 내내 이용 가능한 공용 바베큐장",
         "usageGuide": "[공용 바베큐]\n- 바베큐 형태: 숯불\n- 제공 구성: 숯, 그릴, 집기류\n- 이용 요금: 2인 기준 30,000원 (인원추가 시 1인당 10,000원 추가) (1박기준/현장결제)\n- 이용 시간: 19:00 ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 사전 신청",
         "displayOrder": 0,
-        "images": []
+        "images": [
+          {
+            "id": "b4a7df8d-f155-423a-9f27-4f703defc347",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/cae33d09-7e25-4d7b-b759-f132dc4ead82/main/1773906076510-kmsaz3fiox.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "80f2f9fd-6a36-442f-8111-c456f64c1922",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/cae33d09-7e25-4d7b-b759-f132dc4ead82/main/1773906076510-e3n9pum0g2.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "acef2cb8-dc6e-4b0e-b265-02e94fe7225e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/cae33d09-7e25-4d7b-b759-f132dc4ead82/main/1773906076510-s6leidn993.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e1f13a45-19fe-4f0d-89b6-9a63ac4e5e5c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/cae33d09-7e25-4d7b-b759-f132dc4ead82/main/1773906076509-kvysa7kkic.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "b1c90b11-9d5d-449b-8623-ede787ea2a55",
@@ -87,7 +116,36 @@
         "description": "자전거&전기바이크로 편안한 여행을 즐겨보세요. ",
         "usageGuide": "[자전거/전기바이크 대여]\n- 객실 투숙객 기준 20%할인\n- 1층 라운지에서 신청가능",
         "displayOrder": 1,
-        "images": []
+        "images": [
+          {
+            "id": "cea5bb2a-82e1-4e2a-aec9-85432aeed13b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1c90b11-9d5d-449b-8623-ede787ea2a55/main/1773906094752-cp8997ov3uk.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "c5dff01b-5e4b-4ea3-a6b9-4eda1851455e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1c90b11-9d5d-449b-8623-ede787ea2a55/main/1773906094752-fc0odhjeflv.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "270a7f48-c24c-4a7e-8e5f-4a2a68795d5e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1c90b11-9d5d-449b-8623-ede787ea2a55/main/1773906094752-q8kbtk5waeo.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "75152590-e228-4bca-8071-8e1101135157",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1c90b11-9d5d-449b-8623-ede787ea2a55/main/1773906094752-a4u5sk0koq8.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "4e297542-db15-42b7-9e32-7a368f75bf21",
@@ -95,7 +153,78 @@
         "description": "펜션 1층에 공용 라운지가 있습니다. ",
         "usageGuide": "[공용 라운지]\n- 09:00 ~ 21:00 라운지 사용 가능\n- 배달음식을 드시거나, 담소를 나누셔도 됩니다.",
         "displayOrder": 2,
-        "images": []
+        "images": [
+          {
+            "id": "8c774840-e010-4be7-a948-38c68b47f97d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-7z0xfvgb35k.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "dd7319ba-d87c-42d5-b927-cf8f0f98b00d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-z1eah9w4r3.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "d397ac2a-3ce3-4088-83e5-81279ed4bddc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-tsl6edjqi9e.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "74af42c1-59b6-4e3b-94cb-5bc384a4b19c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-ggct8zyy7jc.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "b5fde1d2-73c8-405c-9c24-3badce9ffdfe",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-dktbjrxmyr8.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1fccacef-e593-43ee-8004-91dad003a6f8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-ecqf7qojfcu.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e71b957a-26e3-4e19-9d4f-f5a3afda556e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906214221-us06mucygt8.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "afe4eb85-bd0d-4caa-ad58-2593e4ff0749",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906214221-0snoj1nf27g.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "82309b72-30aa-420b-96eb-d899dff06742",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906214221-bgci7oundce.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1618793e-0943-44fd-8f45-70396fca87c7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906214221-hts29kpynvh.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "58784923-d1e8-4881-8f57-d68d4fe3fa82",
@@ -103,7 +232,50 @@
         "description": "강문스테이에서는 조식 서비스가 제공됩니다. (유료) \n※ 401, 402, 501, 502호는 조식 포함",
         "usageGuide": "[조식 서비스]\n- 이용 객실: 전 객실\n- 메뉴: 아메리칸 블랙퍼스트 (토스트, 시리얼, 음료 등)\n- 이용 요금: 1인 11,000원 (1박기준/현장결제)\n※ 조식 포함 객실 외 이용 요금 별도\n- 이용 시간: 07:00 ~ 09:00\n- 이용 장소: 1층 라운지\n",
         "displayOrder": 3,
-        "images": []
+        "images": [
+          {
+            "id": "07c0463f-1302-4a69-a35e-0fa71dcde7ec",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-ds9uxvhv3ki.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "93855865-cbbe-414a-9a58-bd7779f59a63",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-75nq9x47tii.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "dfe2ea4e-bddb-444b-a966-ae4f47c6014a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-ae6ssad2vzo.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "202ed5b5-ac5e-41f6-8666-ba1e529a9102",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-fg3z9xoanyj.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "120b8e29-01ae-4dcd-871d-ed4c1aa93551",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-egebx86fob.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "d19a2fe1-32aa-4a3b-b6a9-01a4ff2ec88b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-kkav18u91yc.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -1015,9 +1187,16 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "027a3da5-91b1-43f7-86f5-6dfd9811bdb9",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773806636489-fsdqu1gn2bf.jpg",
+                    "id": "2f7123b1-7951-4f65-8244-e5e63f829296",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773906290755-z84f20qctva.jpg",
                     "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "e836951d-3de3-4401-9aba-e3a56059d6ea",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773906290755-6i8mj8gcd08.jpg",
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   }
@@ -1025,7 +1204,15 @@
               },
               "closing": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "84e47ff0-f18d-4172-ad22-9d5cb2e52c6e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_closing/1773906484479-4bktl1eo7w5.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "essence": {
                 "title": "",
