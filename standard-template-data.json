@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-03-20T02:39:15.739Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-03-20T07:36:09.320Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
     "homepageId": "9d3e992e-9848-41ca-a732-6664fa405731"
@@ -1187,16 +1187,58 @@
                 "title": "강릉 강문스테이",
                 "images": [
                   {
-                    "id": "2f7123b1-7951-4f65-8244-e5e63f829296",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773906290755-z84f20qctva.jpg",
+                    "id": "cf1bc76b-0004-44c0-a184-612f4039b15a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991597840-6n6pimx9mns.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "e836951d-3de3-4401-9aba-e3a56059d6ea",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773906290755-6i8mj8gcd08.jpg",
+                    "id": "ba72b682-c533-4124-9a18-c8823f31f4bc",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991847390-8u8m9gbxe97.jpg",
                     "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "426ff1fa-c0ee-4160-b463-7666a7e7ac64",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991847391-vin2lluz5am.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "c9a37b6c-e25a-4af1-8619-8f09b8f836db",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991847391-b7id4vwcj85.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "8c223a35-d2de-4ffb-ba4b-7c9c3861f3e1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991847391-109yk3rqfut.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "1948b598-b9c6-40f2-95ac-af6959725f35",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991567042-elsgzwu16k.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "99d31620-4e68-4593-b518-6f5e1b6a522d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991847391-iotgu5osn0m.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "594762e5-9e71-424d-8424-9fbf39d76fd4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991847391-t7wwo71a5ig.jpg",
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true
                   }
