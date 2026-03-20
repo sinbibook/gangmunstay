@@ -1,1 +1,1 @@
-# gangmunstay
+# template-full-banner-wipe
