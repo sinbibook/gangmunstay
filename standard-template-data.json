@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-03-20T07:42:53.937Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-03-20T07:45:13.612Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
     "homepageId": "9d3e992e-9848-41ca-a732-6664fa405731"
@@ -1376,8 +1376,8 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "20f86fe2-6716-44d9-96a0-e7b145fa3605",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/main_hero/1773906597938-6daslvybk8s.jpg",
+                    "id": "5e41e185-dec0-4524-ae09-fa1691ff08e9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/main_hero/1773992706748-gkuapusxw1.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -1462,9 +1462,17 @@
             "category": "property_thumbnail"
           },
           {
+            "id": "f251ca39-285b-494c-ad7d-44c56191abc5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/property_exterior/1773907694143-b8n47c5alk4.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
             "id": "9315676b-966a-424f-90b1-fd4304fcff9f",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/property_exterior/1773907694143-tyl7rhdkymm.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
@@ -1472,7 +1480,7 @@
           {
             "id": "4af9abe9-a497-438a-957a-7c0455792805",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/property_exterior/1773907694143-fry7f6ovbxu.jpg",
-            "sortOrder": 1,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
@@ -1480,7 +1488,7 @@
           {
             "id": "5299084e-0088-4b96-8915-972dd1c3b6ca",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/property_exterior/1773907694143-lya80wm933j.jpg",
-            "sortOrder": 2,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
@@ -1488,7 +1496,7 @@
           {
             "id": "9197953a-8467-4939-8141-3a8cc5b3b02f",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/property_exterior/1773907694143-dohfl6yfeiw.jpg",
-            "sortOrder": 3,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
@@ -1496,14 +1504,6 @@
           {
             "id": "a446026e-4479-4d39-bc2f-f5bbdba65ee2",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/property_exterior/1773907694143-jt68r5v0ie.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true,
-            "category": "property_exterior"
-          },
-          {
-            "id": "f251ca39-285b-494c-ad7d-44c56191abc5",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/property_exterior/1773907694143-b8n47c5alk4.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
