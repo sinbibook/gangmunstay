@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-03-20T07:45:13.612Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-03-20T08:04:58.739Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
     "homepageId": "9d3e992e-9848-41ca-a732-6664fa405731"
@@ -1351,11 +1351,11 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "오시는 길",
                 "images": [
                   {
-                    "id": "8ac1f85e-2e72-4a36-85cd-75bce8138637",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/directions_hero/1773906597938-exxc26z7xai.jpg",
+                    "id": "44021414-ff35-4e06-9944-e648c0ed8cca",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/directions_hero/1773992794877-4gfiro0aw9p.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -1385,7 +1385,38 @@
                 ],
                 "description": "강문해변, 경포해변, 경포호수와 가까운 좋은 위치\n2021년 오픈한 신축 펜션으로 깔끔하고 쾌적한 공간\n바다, 산책, 맛집, 카페를 편하게 누리는 동선\n강릉의 여유와 편안함을 오롯이 느낄 수 있는 공간"
               },
-              "about": []
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "2946ad74-5d38-4d0a-bb09-8804aec20288",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/main_about/1773993416199-oevmv2vlzo8.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "30e51443-1c8d-49bd-b2de-1deca67a5271"
+                    }
+                  ],
+                  "blockId": "30e51443-1c8d-49bd-b2de-1deca67a5271",
+                  "description": "강문해변과 경포해변, 경포호수 가까이에 있어 \n강릉의 감성과 여유를 편하게 즐길 수 있습니다.\n바다와 호수, 산책과 낭만이 어우러진 분위기를 \n한층 깊이 느낄 수 있습니다."
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "3032553b-34dd-4577-8146-0d2b0ff2048f",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/main_about/1773993450750-b4s8fsceelg.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "5cef9c66-392c-4ea1-8451-1e86f6f60b4f"
+                    }
+                  ],
+                  "blockId": "5cef9c66-392c-4ea1-8451-1e86f6f60b4f",
+                  "description": "2021년 오픈한 신축 객실로 깔끔하고 \n쾌적한 공간을 제공합니다.\n머무는 내내 편안한 쉼을 누릴 수 있습니다."
+                }
+              ]
             }
           ]
         },
@@ -1395,28 +1426,21 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
-                    "id": "0cef30a9-7bbd-48b3-86ae-8bb75697fe1b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/reservation_hero/1773906597938-7eeub98wyiu.jpg",
+                    "id": "2998f853-fc68-4ea3-b610-54167a9f236b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/reservation_hero/1773993831164-4e6odxgz8ji.jpg",
                     "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "26efdfd7-babe-4fe9-af72-53e4f48c08b1",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/reservation_hero/1773906623949-ijaj1cka2a.jpg",
-                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   }
                 ]
               },
               "about": {
-                "title": "",
+                "title": " ",
                 "images": [],
-                "description": ""
+                "description": " "
               }
             }
           ]
@@ -1445,7 +1469,7 @@
         },
         "color": {
           "primary": "#FEFBFE",
-          "secondary": "#764516"
+          "secondary": "#462F51"
         }
       },
       "popup": {
