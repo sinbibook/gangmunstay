@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-03-20T02:26:10.133Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-03-20T02:39:15.739Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
     "homepageId": "9d3e992e-9848-41ca-a732-6664fa405731"
@@ -1173,9 +1173,9 @@
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "강릉 강문스테이",
+      "description": "강문해변과 경포해변 인근, 깔끔한 2021년 신축 펜션",
+      "keywords": "강릉숙소,강릉펜션,강릉신축펜션,강문해변펜션,경포숙소,경포펜션,강릉여행숙소"
     },
     "socialLinks": {},
     "customFields": {
@@ -1401,7 +1401,10 @@
             "family": "Cafe24Gowoonbam"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#FEFBFE",
+          "secondary": "#764516"
+        }
       },
       "popup": {
         "popups": []
@@ -4027,6 +4030,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "9d3e992e-9848-41ca-a732-6664fa405731"
   }
 }
