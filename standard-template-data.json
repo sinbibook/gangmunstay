@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-04-10T01:55:49.661Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-04-16T03:35:48.571Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
     "homepageId": "9d3e992e-9848-41ca-a732-6664fa405731"
@@ -422,23 +422,40 @@
     "nameEn": "Gangneung Gangmun Stay",
     "domain": "gangmunstay.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11279",
-    "ybsId": ""
+    "ybsId": "75029"
   },
   "rooms": [
     {
       "id": "8cbd0806-8960-4159-8e54-a89140d06cc2",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "201호(리버뷰)",
+      "nameEn": "201 (River View)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -469,6 +486,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -476,22 +494,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2026-03-09T07:03:54.466Z",
+      "updatedAt": "2026-04-10T00:27:04.138Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "8e000c7a-ff5d-4c97-ba88-748808ddd949",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "202호(리버뷰)",
+      "nameEn": "202 (River View)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -522,6 +561,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -529,22 +569,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 2,
+      "createdAt": "2026-03-09T07:03:54.623Z",
+      "updatedAt": "2026-04-10T00:27:09.845Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "31efbee5-25bf-4fc4-9cc2-687fd411eb28",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "203호",
+      "nameEn": "203",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -572,6 +633,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -579,22 +641,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 3,
+      "createdAt": "2026-03-09T07:03:54.489Z",
+      "updatedAt": "2026-04-10T00:27:15.692Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "f3af5eae-014f-4b20-9f68-1a7d0c5369ef",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "301호(리버뷰)",
+      "nameEn": "301 (River View)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -625,6 +708,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -632,22 +716,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 4,
+      "createdAt": "2026-03-09T07:03:54.694Z",
+      "updatedAt": "2026-04-10T00:27:21.274Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "c2b0da0b-616b-47af-a7ce-1d9b7373e9af",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "302호(리버뷰)",
+      "nameEn": "302 (River View)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -678,6 +783,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -685,22 +791,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 5
+      "displayOrder": 5,
+      "createdAt": "2026-03-09T07:03:54.661Z",
+      "updatedAt": "2026-04-10T00:27:29.296Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "d5248f6e-42da-47dc-8005-a687e7b4d0fd",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "303호",
+      "nameEn": "303",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -728,6 +855,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -735,22 +863,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 6
+      "displayOrder": 6,
+      "createdAt": "2026-03-09T07:03:54.715Z",
+      "updatedAt": "2026-04-10T00:27:36.139Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "0f43eaea-d93a-4657-8652-8bcd9cd8d00e",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "401호(하프오션뷰/조식포함)",
+      "nameEn": "401 (Half Ocean View / Breakfast)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -781,6 +930,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -788,22 +938,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 7
+      "displayOrder": 7,
+      "createdAt": "2026-03-09T07:03:54.673Z",
+      "updatedAt": "2026-04-10T00:27:44.888Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "f5d08a9e-8524-4190-b7d2-e68c44bd0c6f",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "402호(하프오션뷰/조식포함)",
+      "nameEn": "402 (Half Ocean View / Breakfast)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -834,6 +1005,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -841,22 +1013,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 8
+      "displayOrder": 8,
+      "createdAt": "2026-03-09T07:03:54.720Z",
+      "updatedAt": "2026-04-10T00:27:52.239Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "38245d33-4620-4dab-8ae8-e264d3264857",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "403호",
+      "nameEn": "403",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -884,6 +1077,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -891,22 +1085,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 9
+      "displayOrder": 9,
+      "createdAt": "2026-03-09T07:03:54.640Z",
+      "updatedAt": "2026-04-10T00:27:57.832Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "786c0565-2af8-45ac-894c-2ae2a7563f6f",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "501호(하프오션뷰/조식포함)",
+      "nameEn": "501 (Half Ocean View / Breakfast)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -937,6 +1152,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -944,22 +1160,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 10
+      "displayOrder": 10,
+      "createdAt": "2026-03-09T07:03:54.574Z",
+      "updatedAt": "2026-04-10T00:28:04.501Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "d353571a-e904-4bd0-9a06-17d09df00583",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "502호(하프오션뷰/조식포함)",
+      "nameEn": "502 (Half Ocean View / Breakfast)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -990,6 +1227,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -997,22 +1235,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 11
+      "displayOrder": 11,
+      "createdAt": "2026-03-09T07:03:54.575Z",
+      "updatedAt": "2026-04-10T00:28:09.815Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "b1990e17-6f02-4de9-9c0b-7a9ee044a9dd",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "503호",
+      "nameEn": "503",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
+      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1040,6 +1299,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -1047,22 +1307,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 12
+      "displayOrder": 12,
+      "createdAt": "2026-03-09T07:03:54.693Z",
+      "updatedAt": "2026-04-10T00:28:15.543Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "43f4dfb3-24ba-4426-9d4b-f7c13f9f70ca",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "205호(신축)",
+      "nameEn": "205",
       "description": "원룸형 : 침대룸+화장실",
       "roomInfo": "원룸형 : 침대룸+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 29.75,
+      "sizePyeong": 9,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1090,6 +1371,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -1097,22 +1379,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 13
+      "displayOrder": 13,
+      "createdAt": "2026-03-09T07:03:54.749Z",
+      "updatedAt": "2026-04-10T00:28:21.731Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "d4e6c719-2b0f-499b-be8f-9578d3c77bfb",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "206호(신축/커넥팅룸/207호와가능)(창문X)",
+      "nameEn": "206 (Connect 207 / No Window)",
       "description": "원룸형 : 침대룸+화장실",
       "roomInfo": "원룸형 : 침대룸+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 29.75,
+      "sizePyeong": 9,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1140,6 +1443,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -1147,22 +1451,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 14
+      "displayOrder": 14,
+      "createdAt": "2026-03-09T07:03:54.744Z",
+      "updatedAt": "2026-04-10T00:28:30.621Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "9a67c943-46f0-46b0-a501-43be39788e3e",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "207호(신축/커넥팅룸/206호와가능)",
+      "nameEn": "207 (Connect 206)",
       "description": "원룸형 : 침대룸+화장실",
       "roomInfo": "원룸형 : 침대룸+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 29.75,
+      "sizePyeong": 9,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1190,6 +1515,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -1197,22 +1523,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 15
+      "displayOrder": 15,
+      "createdAt": "2026-03-09T07:03:54.589Z",
+      "updatedAt": "2026-04-10T00:28:37.412Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "9d50dc2a-b93d-43cd-a3bf-a04116ed0202",
+      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
+      "propertyName": "강릉 강문스테이",
       "name": "208호(신축)",
+      "nameEn": "208",
       "description": "원룸형 : 침대룸+화장실",
       "roomInfo": "원룸형 : 침대룸+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 29.75,
+      "sizePyeong": 9,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1240,6 +1587,7 @@
         "원룸형"
       ],
       "status": "active",
+      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
       "images": [
         {
           "thumbnail": [],
@@ -1247,7 +1595,11 @@
           "exterior": []
         }
       ],
-      "displayOrder": 16
+      "displayOrder": 16,
+      "createdAt": "2026-03-09T07:03:54.772Z",
+      "updatedAt": "2026-04-10T00:36:50.673Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     }
   ],
   "homepage": {
@@ -1329,7 +1681,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "강문,경포 바다와 함께 편안한 쉼을 즐기는 공간"
+                "description": "강문,경포 바다와 함께 편안한 쉼을 즐기는 공간",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": " ",
@@ -1342,7 +1696,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": "Gangmun Stay,",
@@ -1369,7 +1725,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "강문해변, 경포해변, 경포호수와 가까운 좋은 위치\n깔끔하고 모던하고 쾌적한 인테리어 공간\n바다, 산책, 맛집, 카페를 편하게 누리는 동선\n강릉의 여유와 편안함을 오롯이 느낄 수 있는 공간"
+                "description": "강문해변, 경포해변, 경포호수와 가까운 좋은 위치\n깔끔하고 모던하고 쾌적한 인테리어 공간\n바다, 산책, 맛집, 카페를 편하게 누리는 동선\n강릉의 여유와 편안함을 오롯이 느낄 수 있는 공간",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "강문스테이 미리보기",
@@ -1424,11 +1782,15 @@
                     "isSelected": true
                   }
                 ],
-                "description": "머무는 순간이 더 특별해지는 강문스테이의 매력을 만나보세요"
+                "description": "머무는 순간이 더 특별해지는 강문스테이의 매력을 만나보세요",
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "",
-                "images": []
+                "images": [],
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
