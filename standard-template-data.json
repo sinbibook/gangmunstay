@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-04-16T03:35:48.571Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-05-18T05:42:15.719536184Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
     "homepageId": "9d3e992e-9848-41ca-a732-6664fa405731"
@@ -55,7 +55,8 @@
       "businessEmail": "hotel_bom@naver.com",
       "businessType": "individual",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": "",
+      "ecommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -81,32 +82,36 @@
         "displayOrder": 0,
         "images": [
           {
+            "id": "e1f13a45-19fe-4f0d-89b6-9a63ac4e5e5c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/cae33d09-7e25-4d7b-b759-f132dc4ead82/main/1773906076509-kvysa7kkic.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "b4a7df8d-f155-423a-9f27-4f703defc347",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/cae33d09-7e25-4d7b-b759-f132dc4ead82/main/1773906076510-kmsaz3fiox.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "80f2f9fd-6a36-442f-8111-c456f64c1922",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/cae33d09-7e25-4d7b-b759-f132dc4ead82/main/1773906076510-e3n9pum0g2.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "acef2cb8-dc6e-4b0e-b265-02e94fe7225e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/cae33d09-7e25-4d7b-b759-f132dc4ead82/main/1773906076510-s6leidn993.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "e1f13a45-19fe-4f0d-89b6-9a63ac4e5e5c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/cae33d09-7e25-4d7b-b759-f132dc4ead82/main/1773906076509-kvysa7kkic.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -118,32 +123,36 @@
         "displayOrder": 1,
         "images": [
           {
-            "id": "cea5bb2a-82e1-4e2a-aec9-85432aeed13b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1c90b11-9d5d-449b-8623-ede787ea2a55/main/1773906094752-cp8997ov3uk.jpg",
-            "sortOrder": 2,
+            "id": "270a7f48-c24c-4a7e-8e5f-4a2a68795d5e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1c90b11-9d5d-449b-8623-ede787ea2a55/main/1773906094752-q8kbtk5waeo.jpg",
+            "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "c5dff01b-5e4b-4ea3-a6b9-4eda1851455e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1c90b11-9d5d-449b-8623-ede787ea2a55/main/1773906094752-fc0odhjeflv.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "270a7f48-c24c-4a7e-8e5f-4a2a68795d5e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1c90b11-9d5d-449b-8623-ede787ea2a55/main/1773906094752-q8kbtk5waeo.jpg",
-            "sortOrder": 0,
+            "id": "cea5bb2a-82e1-4e2a-aec9-85432aeed13b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1c90b11-9d5d-449b-8623-ede787ea2a55/main/1773906094752-cp8997ov3uk.jpg",
+            "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "75152590-e228-4bca-8071-8e1101135157",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1c90b11-9d5d-449b-8623-ede787ea2a55/main/1773906094752-a4u5sk0koq8.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -159,70 +168,80 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-7z0xfvgb35k.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "dd7319ba-d87c-42d5-b927-cf8f0f98b00d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-z1eah9w4r3.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "d397ac2a-3ce3-4088-83e5-81279ed4bddc",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-tsl6edjqi9e.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "74af42c1-59b6-4e3b-94cb-5bc384a4b19c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-ggct8zyy7jc.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "b5fde1d2-73c8-405c-9c24-3badce9ffdfe",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-dktbjrxmyr8.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "1fccacef-e593-43ee-8004-91dad003a6f8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-ecqf7qojfcu.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "e71b957a-26e3-4e19-9d4f-f5a3afda556e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906214221-us06mucygt8.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "afe4eb85-bd0d-4caa-ad58-2593e4ff0749",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906214221-0snoj1nf27g.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "82309b72-30aa-420b-96eb-d899dff06742",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906214221-bgci7oundce.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "1618793e-0943-44fd-8f45-70396fca87c7",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906214221-hts29kpynvh.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "74af42c1-59b6-4e3b-94cb-5bc384a4b19c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-ggct8zyy7jc.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "82309b72-30aa-420b-96eb-d899dff06742",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906214221-bgci7oundce.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "afe4eb85-bd0d-4caa-ad58-2593e4ff0749",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906214221-0snoj1nf27g.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e71b957a-26e3-4e19-9d4f-f5a3afda556e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906214221-us06mucygt8.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d397ac2a-3ce3-4088-83e5-81279ed4bddc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-tsl6edjqi9e.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "dd7319ba-d87c-42d5-b927-cf8f0f98b00d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-z1eah9w4r3.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b5fde1d2-73c8-405c-9c24-3badce9ffdfe",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-dktbjrxmyr8.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1fccacef-e593-43ee-8004-91dad003a6f8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4e297542-db15-42b7-9e32-7a368f75bf21/main/1773906145229-ecqf7qojfcu.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -234,46 +253,52 @@
         "displayOrder": 3,
         "images": [
           {
-            "id": "07c0463f-1302-4a69-a35e-0fa71dcde7ec",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-ds9uxvhv3ki.jpg",
-            "sortOrder": 2,
+            "id": "d19a2fe1-32aa-4a3b-b6a9-01a4ff2ec88b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-kkav18u91yc.jpg",
+            "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "93855865-cbbe-414a-9a58-bd7779f59a63",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-75nq9x47tii.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "dfe2ea4e-bddb-444b-a966-ae4f47c6014a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-ae6ssad2vzo.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "202ed5b5-ac5e-41f6-8666-ba1e529a9102",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-fg3z9xoanyj.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "07c0463f-1302-4a69-a35e-0fa71dcde7ec",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-ds9uxvhv3ki.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "93855865-cbbe-414a-9a58-bd7779f59a63",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-75nq9x47tii.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "120b8e29-01ae-4dcd-871d-ed4c1aa93551",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-egebx86fob.jpg",
             "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "d19a2fe1-32aa-4a3b-b6a9-01a4ff2ec88b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-kkav18u91yc.jpg",
-            "sortOrder": 0,
+            "id": "dfe2ea4e-bddb-444b-a966-ae4f47c6014a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/58784923-d1e8-4881-8f57-d68d4fe3fa82/main/1773906216017-ae6ssad2vzo.jpg",
+            "sortOrder": 5,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -333,110 +358,118 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/thumbnail/1774229790214-krd6cctc32k.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ],
         "exterior": [
           {
             "id": "431c73d5-b0ba-419e-b365-6fb6c251d007",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790214-6i8elmudkm9.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "a144ddcf-1af7-488d-8437-ea2f69a11897",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790214-tqelrj9d1d.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "b2b35f2e-6f10-4e66-8d93-0631251a9150",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790214-y9tolu31ez.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "784dc514-370c-4723-939a-35d37fcb7b24",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790214-ok0jtnx1om.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "fe822a88-53ef-4bed-8438-e0e5d6add640",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790215-6yutf53lnp2.jpg",
-            "sortOrder": 10,
+            "id": "b2b35f2e-6f10-4e66-8d93-0631251a9150",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790214-y9tolu31ez.jpg",
+            "sortOrder": 2,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "ee05c863-9f30-4c4b-bfd4-3e7f78505316",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790215-qxo2msg3j9o.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "eb9ada5a-5d3b-455e-bf30-4f84ca11d089",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790214-ufwjjzqph7.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "4c270b6e-6a5d-477c-9c50-6d6cae535b41",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790214-qfs2x4v326f.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "8f8fa910-2d28-44f1-89da-f49cbe450986",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790215-4qbsu6m8l6n.jpg",
-            "sortOrder": 8,
+            "id": "a144ddcf-1af7-488d-8437-ea2f69a11897",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790214-tqelrj9d1d.jpg",
+            "sortOrder": 4,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "d326bca2-4a33-483f-bc5b-33c4a52e6875",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790215-nx4ddwlkzd.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "597ec9ca-8cf6-41dd-ae86-a2307f5e571a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790214-8zq2uyofko4.jpg",
             "sortOrder": 5,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "eb9ada5a-5d3b-455e-bf30-4f84ca11d089",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790214-ufwjjzqph7.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d326bca2-4a33-483f-bc5b-33c4a52e6875",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790215-nx4ddwlkzd.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8f8fa910-2d28-44f1-89da-f49cbe450986",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790215-4qbsu6m8l6n.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ee05c863-9f30-4c4b-bfd4-3e7f78505316",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790215-qxo2msg3j9o.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "fe822a88-53ef-4bed-8438-e0e5d6add640",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/34abf611-2bed-4830-a757-66a968ee578e/exterior/1774229790215-6yutf53lnp2.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ],
-        "surrounding": [],
-        "commonArea": []
+        "surrounding": [ ],
+        "commonArea": [ ]
       }
     ],
     "nameEn": "Gangneung Gangmun Stay",
     "domain": "gangmunstay.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11279",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1023361894",
     "ybsId": "75029"
   },
   "rooms": [
     {
       "id": "8cbd0806-8960-4159-8e54-a89140d06cc2",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "201호(리버뷰)",
-      "nameEn": "201 (River View)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -446,20 +479,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -486,32 +509,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 1,
-      "createdAt": "2026-03-09T07:03:54.466Z",
-      "updatedAt": "2026-04-10T00:27:04.138Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 1
     },
     {
       "id": "8e000c7a-ff5d-4c97-ba88-748808ddd949",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "202호(리버뷰)",
-      "nameEn": "202 (River View)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -521,20 +546,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -561,32 +576,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 2,
-      "createdAt": "2026-03-09T07:03:54.623Z",
-      "updatedAt": "2026-04-10T00:27:09.845Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 2
     },
     {
       "id": "31efbee5-25bf-4fc4-9cc2-687fd411eb28",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "203호",
-      "nameEn": "203",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -596,20 +613,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -628,37 +635,39 @@
         "OTT",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 3,
-      "createdAt": "2026-03-09T07:03:54.489Z",
-      "updatedAt": "2026-04-10T00:27:15.692Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 3
     },
     {
       "id": "f3af5eae-014f-4b20-9f68-1a7d0c5369ef",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "301호(리버뷰)",
-      "nameEn": "301 (River View)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -668,20 +677,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -708,32 +707,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 4,
-      "createdAt": "2026-03-09T07:03:54.694Z",
-      "updatedAt": "2026-04-10T00:27:21.274Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 4
     },
     {
       "id": "c2b0da0b-616b-47af-a7ce-1d9b7373e9af",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "302호(리버뷰)",
-      "nameEn": "302 (River View)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -743,20 +744,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -783,32 +774,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 5,
-      "createdAt": "2026-03-09T07:03:54.661Z",
-      "updatedAt": "2026-04-10T00:27:29.296Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 5
     },
     {
       "id": "d5248f6e-42da-47dc-8005-a687e7b4d0fd",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "303호",
-      "nameEn": "303",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -818,20 +811,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -850,37 +833,39 @@
         "OTT",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 6,
-      "createdAt": "2026-03-09T07:03:54.715Z",
-      "updatedAt": "2026-04-10T00:27:36.139Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 6
     },
     {
       "id": "0f43eaea-d93a-4657-8652-8bcd9cd8d00e",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "401호(하프오션뷰/조식포함)",
-      "nameEn": "401 (Half Ocean View / Breakfast)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -890,20 +875,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -930,32 +905,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 7,
-      "createdAt": "2026-03-09T07:03:54.673Z",
-      "updatedAt": "2026-04-10T00:27:44.888Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 7
     },
     {
       "id": "f5d08a9e-8524-4190-b7d2-e68c44bd0c6f",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "402호(하프오션뷰/조식포함)",
-      "nameEn": "402 (Half Ocean View / Breakfast)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -965,20 +942,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -1005,32 +972,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 8,
-      "createdAt": "2026-03-09T07:03:54.720Z",
-      "updatedAt": "2026-04-10T00:27:52.239Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 8
     },
     {
       "id": "38245d33-4620-4dab-8ae8-e264d3264857",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "403호",
-      "nameEn": "403",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1040,20 +1009,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -1072,37 +1031,39 @@
         "OTT",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 9,
-      "createdAt": "2026-03-09T07:03:54.640Z",
-      "updatedAt": "2026-04-10T00:27:57.832Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 9
     },
     {
       "id": "786c0565-2af8-45ac-894c-2ae2a7563f6f",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "501호(하프오션뷰/조식포함)",
-      "nameEn": "501 (Half Ocean View / Breakfast)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1112,20 +1073,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -1152,32 +1103,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 10,
-      "createdAt": "2026-03-09T07:03:54.574Z",
-      "updatedAt": "2026-04-10T00:28:04.501Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 10
     },
     {
       "id": "d353571a-e904-4bd0-9a06-17d09df00583",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "502호(하프오션뷰/조식포함)",
-      "nameEn": "502 (Half Ocean View / Breakfast)",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1187,20 +1140,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -1227,32 +1170,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 11,
-      "createdAt": "2026-03-09T07:03:54.575Z",
-      "updatedAt": "2026-04-10T00:28:09.815Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 11
     },
     {
       "id": "b1990e17-6f02-4de9-9c0b-7a9ee044a9dd",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "503호",
-      "nameEn": "503",
       "description": "원룸형 : 침대룸+화장실+개별테라스",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1262,20 +1207,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -1294,37 +1229,39 @@
         "OTT",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 12,
-      "createdAt": "2026-03-09T07:03:54.693Z",
-      "updatedAt": "2026-04-10T00:28:15.543Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 12
     },
     {
       "id": "43f4dfb3-24ba-4426-9d4b-f7c13f9f70ca",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "205호(신축)",
-      "nameEn": "205",
       "description": "원룸형 : 침대룸+화장실",
       "roomInfo": "원룸형 : 침대룸+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 29.75,
-      "sizePyeong": 9,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1334,20 +1271,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -1366,37 +1293,39 @@
         "OTT",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 13,
-      "createdAt": "2026-03-09T07:03:54.749Z",
-      "updatedAt": "2026-04-10T00:28:21.731Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 13
     },
     {
       "id": "d4e6c719-2b0f-499b-be8f-9578d3c77bfb",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "206호(신축/커넥팅룸/207호와가능)(창문X)",
-      "nameEn": "206 (Connect 207 / No Window)",
       "description": "원룸형 : 침대룸+화장실",
       "roomInfo": "원룸형 : 침대룸+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 29.75,
-      "sizePyeong": 9,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1406,20 +1335,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -1438,37 +1357,39 @@
         "OTT",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 14,
-      "createdAt": "2026-03-09T07:03:54.744Z",
-      "updatedAt": "2026-04-10T00:28:30.621Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 14
     },
     {
       "id": "9a67c943-46f0-46b0-a501-43be39788e3e",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "207호(신축/커넥팅룸/206호와가능)",
-      "nameEn": "207 (Connect 206)",
       "description": "원룸형 : 침대룸+화장실",
       "roomInfo": "원룸형 : 침대룸+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 29.75,
-      "sizePyeong": 9,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1478,20 +1399,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -1510,37 +1421,39 @@
         "OTT",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 15,
-      "createdAt": "2026-03-09T07:03:54.589Z",
-      "updatedAt": "2026-04-10T00:28:37.412Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 15
     },
     {
       "id": "9d50dc2a-b93d-43cd-a3bf-a04116ed0202",
-      "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
-      "propertyName": "강릉 강문스테이",
       "name": "208호(신축)",
-      "nameEn": "208",
       "description": "원룸형 : 침대룸+화장실",
       "roomInfo": "원룸형 : 침대룸+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
       "group": null,
       "size": 29.75,
-      "sizePyeong": 9,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1550,20 +1463,10 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "화장대",
@@ -1582,24 +1485,30 @@
         "OTT",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "e14c1f20-7413-4f34-9ba9-bf8755731407",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 16,
-      "createdAt": "2026-03-09T07:03:54.772Z",
-      "updatedAt": "2026-04-10T00:36:50.673Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 16
     }
   ],
   "homepage": {
@@ -1607,7 +1516,7 @@
     "templateType": "full_banner_conveyer",
     "images": [
       {
-        "logo": []
+        "logo": [ ]
       }
     ],
     "seo": {
@@ -1615,7 +1524,12 @@
       "description": "강문해변과 경포해변 인근, 깔끔한 2021년 신축 펜션",
       "keywords": "강릉숙소,강릉펜션,강릉신축펜션,강문해변펜션,경포숙소,경포펜션,강릉여행숙소"
     },
-    "socialLinks": {},
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
     "customFields": {
       "pages": {
         "index": {
@@ -1629,61 +1543,69 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991597840-6n6pimx9mns.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "ba72b682-c533-4124-9a18-c8823f31f4bc",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991847390-8u8m9gbxe97.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "426ff1fa-c0ee-4160-b463-7666a7e7ac64",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991847391-vin2lluz5am.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "c9a37b6c-e25a-4af1-8619-8f09b8f836db",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991847391-b7id4vwcj85.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "8c223a35-d2de-4ffb-ba4b-7c9c3861f3e1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991847391-109yk3rqfut.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "1948b598-b9c6-40f2-95ac-af6959725f35",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991567042-elsgzwu16k.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "99d31620-4e68-4593-b518-6f5e1b6a522d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773991847391-iotgu5osn0m.jpg",
                     "sortOrder": 6,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "ad4de2f3-a3c7-4241-89b7-c5c6dbe9b2a7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_hero/1773994939795-g460f532q4e.jpg",
                     "sortOrder": 7,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "description": "강문,경포 바다와 함께 편안한 쉼을 즐기는 공간",
+                "videos": [ ],
                 "mediaType": "image",
-                "videos": []
+                "description": "강문,경포 바다와 함께 편안한 쉼을 즐기는 공간"
               },
               "closing": {
                 "title": " ",
@@ -1693,12 +1615,13 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_closing/1773906484479-4bktl1eo7w5.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "description": " ",
+                "videos": [ ],
                 "mediaType": "image",
-                "videos": []
+                "description": " "
               },
               "essence": {
                 "title": "Gangmun Stay,",
@@ -1708,26 +1631,29 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_essence/1773973282750-7ax239sejco.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "7aa7ef3a-038c-4a6c-902d-df4b9ce7d87d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_essence/1773973282751-m2puimv59y.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "ed45f46b-1c03-4808-91bf-c44379c9de8c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_essence/1773973282751-mlcsx0vheq.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "description": "강문해변, 경포해변, 경포호수와 가까운 좋은 위치\n깔끔하고 모던하고 쾌적한 인테리어 공간\n바다, 산책, 맛집, 카페를 편하게 누리는 동선\n강릉의 여유와 편안함을 오롯이 느낄 수 있는 공간",
+                "videos": [ ],
                 "mediaType": "image",
-                "videos": []
+                "description": "강문해변, 경포해변, 경포호수와 가까운 좋은 위치\n깔끔하고 모던하고 쾌적한 인테리어 공간\n바다, 산책, 맛집, 카페를 편하게 누리는 동선\n강릉의 여유와 편안함을 오롯이 느낄 수 있는 공간"
               },
               "gallery": {
                 "title": "강문스테이 미리보기",
@@ -1737,60 +1663,67 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_gallery/1773973282751-33xhrs9clho.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "df05dfd1-b862-4223-b3a5-dd0f513f10a8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_gallery/1773973282751-xtcbx43vbz.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "f5d659df-60db-46e5-be30-594437331cd2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_gallery/1773973282751-5zv85o1j3rk.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "da8ad48f-9d57-472a-bf30-2fc05f84b93a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_gallery/1773973282751-rcdoq36apw.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "12c9f61e-334c-4a70-b788-2b47f9598589",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_gallery/1773973486703-txad8zj506.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "1befeba9-bf07-4ab9-bfd9-02f4f853d6e1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_gallery/1773973282751-cq6m1v35kxw.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "6b0c1fd0-ecff-4747-83d7-ffeb892e40ae",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/index_gallery/1773973282751-04d6i1a4b65c.jpg",
                     "sortOrder": 6,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "description": "머무는 순간이 더 특별해지는 강문스테이의 매력을 만나보세요",
+                "videos": [ ],
                 "mediaType": "image",
-                "videos": []
+                "description": "머무는 순간이 더 특별해지는 강문스테이의 매력을 만나보세요"
               },
               "signature": {
                 "title": "",
-                "images": [],
-                "mediaType": "image",
-                "videos": []
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image"
               }
             }
           ]
@@ -1806,7 +1739,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/directions_hero/1773992794877-4gfiro0aw9p.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -1828,7 +1762,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/main_hero/1773992706748-gkuapusxw1.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": "강문해변, 경포해변, 경포호수와 가까운 좋은 위치\n깔끔하고 모던하고 쾌적한 인테리어 공간\n바다, 산책, 맛집, 카페를 편하게 누리는 동선\n강릉의 여유와 편안함을 오롯이 느낄 수 있는 공간"
@@ -1868,8 +1803,8 @@
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [ ],
+        "facility": [ ],
         "reservation": {
           "sections": [
             {
@@ -1881,13 +1816,14 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9d3e992e-9848-41ca-a732-6664fa405731/reservation_hero/1773993831164-4e6odxgz8ji.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
               "about": {
                 "title": " ",
-                "images": [],
+                "images": [ ],
                 "description": " "
               }
             }
@@ -1921,7 +1857,7 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [ ]
       },
       "property": {
         "images": [
@@ -1931,6 +1867,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_thumbnail"
           },
           {
@@ -1939,6 +1876,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1947,6 +1885,7 @@
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1955,6 +1894,7 @@
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1963,6 +1903,7 @@
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1971,6 +1912,7 @@
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1979,6 +1921,7 @@
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1987,6 +1930,7 @@
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1995,6 +1939,7 @@
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2003,6 +1948,7 @@
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2011,6 +1957,7 @@
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -2019,9 +1966,12 @@
             "sortOrder": 10,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           }
-        ]
+        ],
+        "name": "강릉 강문스테이",
+        "nameEn": "Gangneung Gangmun Stay"
       },
       "roomtypes": [
         {
