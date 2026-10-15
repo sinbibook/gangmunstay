@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-08-10T06:03:41.366160681Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-10-15T04:41:33.568722459Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "34abf611-2bed-4830-a757-66a968ee578e",
     "homepageId": "9d3e992e-9848-41ca-a732-6664fa405731"
@@ -14,12 +14,14 @@
     "address": "강원특별자치도 강릉시 해안로 358 (강문동) 강문스테이",
     "latitude": 37.7954051110229,
     "longitude": 128.914542787575,
-    "contactPhone": "010-7408-8899",
+    "contactPhone": [
+      "010-7408-8899"
+    ],
     "contactEmail": "hotel_bom@naver.com",
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n- 입실 시간 15:00 / 퇴실 시간 11:00\n※ 퇴실 시 퇴실 점검 부탁드립니다.\n※ 11시부터 15시까지 숙소 청소 시간이므로 숙소의 원활한 운영을 위해 시간을 꼭 지켜주세요.",
-    "usageGuide": "[공지사항]\n※ 206호, 207호 커넥팅 룸 가능 (커넥팅룸 사용 원하실 경우 두 객실 예약 부탁드립니다.)\n※ 추가비용 현금결제 시 현금영수증 가능합니다.\n※ 퇴실시간 지연 또는 연장으로 인한 시간 초과시 30분당 10,000원의 추가비용이 발생합니다.\n※ 다른 이용 고객의 불편함이 없도록 무분별한 오락, 음주 및 고성방가는 자제 부탁드립니다.\n※ 쾌적하고 안락한 숙소 운영 방침에 따라 최대 정원을 초과하는 입실은 금합니다.\n※ 객실 내 취사 불가합니다. \n※ 객실 내 고기, 대게를 포함한 갑각류, 생선, 청국장등의 조리를 금하오니 실외 지정된 장소 및 바베큐장을 이용하시길 부탁드립니다.\n※ 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척 부탁드립니다.\n※ 객실 내에서는 절대 금연입니다.\n※ 반려동물은 부득이 타 객실 및 손님을 위해 입실을 금하오니 양해 부탁드립니다.\n※ 미성년자는 보호자의 동행 없이는 투숙이 불가합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n- 입실 시간 15:00 / 퇴실 시간 11:00\n※ 퇴실 시 퇴실 점검 부탁드립니다.\n※ 11시부터 15시까지 숙소 청소 시간이므로 숙소의 원활한 운영을 위해 시간을 꼭 지켜주세요.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제\n\n[공용바베큐]\n- 바베큐 형태: 숯불\n- 제공 구성: 숯, 그릴, 집기류\n- 이용 요금: 2인 기준 30,000원 (인원추가 시 1인당 10,000원 추가) (1박기준/현장결제)\n- 이용 시간: 19:00 ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 사전 신청\n\n[조식 서비스]\n- 이용 객실: 전 객실\n- 메뉴: 아메리칸 블랙퍼스트 (토스트, 시리얼, 음료 등)\n- 이용 요금: 1인 11,000원 (1박기준/현장결제)\n※ 조식 포함 객실 외 이용 요금 별도\n- 이용 시간: 07:00 ~ 09:00\n- 이용 장소: 1층 라운지\n\n[부대시설]\n[자전거/전기바이크 대여]\n- 일반 자전거 무료 대여\n- 일반자전거 외 타종류 객실 투숙객 기준 20%할인\n- 1층 라운지에서 신청가능\n\n[공용 라운지]\n- 위치 : 1층 \n- 09:00 ~ 22:00 라운지 사용 가능\n- 배달음식을 드시거나, 담소를 나누셔도 됩니다.\n\n[무료 짐보관 서비스] \n- 입실전,퇴실후 짐 보관 가능\n\n[편의 및 주변 시설]\n- 무료 WiFi\n- 넷플릭스 시청 가능 (개인계정 사용)\n- 엘리베이터 구비\n\n[주변관광지]\n- 강문해변\n- 초당순두부마을\n- 경포호\n- 경포도립공원\n- 아르떼뮤지엄 강릉\n\n[주차장]\n- 주차장 보유",
+    "usageGuide": "※ 206호, 207호 커넥팅 룸 가능 (커넥팅룸 사용 원하실 경우 두 객실 예약 부탁드립니다.)\n※ 추가비용 현금결제 시 현금영수증 가능합니다.\n※ 퇴실시간 지연 또는 연장으로 인한 시간 초과시 30분당 10,000원의 추가비용이 발생합니다.\n※ 다른 이용 고객의 불편함이 없도록 무분별한 오락, 음주 및 고성방가는 자제 부탁드립니다.\n※ 쾌적하고 안락한 숙소 운영 방침에 따라 최대 정원을 초과하는 입실은 금합니다.\n※ 객실 내 취사 불가합니다. \n※ 객실 내 고기, 대게를 포함한 갑각류, 생선, 청국장등의 조리를 금하오니 실외 지정된 장소 및 바베큐장을 이용하시길 부탁드립니다.\n※ 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척 부탁드립니다.\n※ 객실 내에서는 절대 금연입니다.\n※ 반려동물은 부득이 타 객실 및 손님을 위해 입실을 금하오니 양해 부탁드립니다.\n※ 미성년자는 보호자의 동행 없이는 투숙이 불가합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n- 입실 시간 15:00 / 퇴실 시간 11:00\n※ 퇴실 시 퇴실 점검 부탁드립니다.\n※ 11시부터 15시까지 숙소 청소 시간이므로 숙소의 원활한 운영을 위해 시간을 꼭 지켜주세요.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 22,000원, 아동 1인 22,000원, 유아 1인 22,000원\n(1박기준/현장결제)\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제\n\n[공용바베큐]\n- 바베큐 형태: 숯불\n- 제공 구성: 숯, 그릴, 집기류\n- 이용 요금: 2인 기준 30,000원 (인원추가 시 1인당 10,000원 추가) (1박기준/현장결제)\n- 이용 시간: 19:00 ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 사전 신청\n\n[조식 서비스]\n- 이용 객실: 전 객실\n- 메뉴: 아메리칸 블랙퍼스트 (토스트, 시리얼, 음료 등)\n- 이용 요금: 1인 11,000원 (1박기준/현장결제)\n※ 조식 포함 객실 외 이용 요금 별도\n- 이용 시간: 07:00 ~ 09:00\n- 이용 장소: 1층 라운지\n\n[부대시설]\n[자전거/전기바이크 대여]\n- 일반 자전거 무료 대여\n- 일반자전거 외 타종류 객실 투숙객 기준 20%할인\n- 1층 라운지에서 신청가능\n\n[공용 라운지]\n- 위치 : 1층 \n- 09:00 ~ 22:00 라운지 사용 가능\n- 배달음식을 드시거나, 담소를 나누셔도 됩니다.\n\n[무료 짐보관 서비스] \n- 입실전,퇴실후 짐 보관 가능\n\n[편의 및 주변 시설]\n- 무료 WiFi\n- 넷플릭스 시청 가능 (개인계정 사용)\n- 엘리베이터 구비\n\n[주변관광지]\n- 강문해변\n- 초당순두부마을\n- 경포호\n- 경포도립공원\n- 아르떼뮤지엄 강릉\n\n[주차장]\n- 주차장 보유",
     "reservationGuide": "※ 206호, 207호 커넥팅 룸 가능 (커넥팅룸 사용 원하실 경우 두 객실 예약 부탁드립니다.)\n※ 추가비용 현금결제 시 현금영수증 가능합니다.\n※ 퇴실시간 지연 또는 연장으로 인한 시간 초과시 30분당 10,000원의 추가비용이 발생합니다.\n※ 다른 이용 고객의 불편함이 없도록 무분별한 오락, 음주 및 고성방가는 자제 부탁드립니다.\n※ 쾌적하고 안락한 숙소 운영 방침에 따라 최대 정원을 초과하는 입실은 금합니다.\n※ 객실 내 취사 불가합니다. \n※ 객실 내 고기, 대게를 포함한 갑각류, 생선, 청국장등의 조리를 금하오니 실외 지정된 장소 및 바베큐장을 이용하시길 부탁드립니다.\n※ 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척 부탁드립니다.\n※ 객실 내에서는 절대 금연입니다.\n※ 반려동물은 부득이 타 객실 및 손님을 위해 입실을 금하오니 양해 부탁드립니다.\n※ 미성년자는 보호자의 동행 없이는 투숙이 불가합니다.",
     "province": "강원특별자치도",
     "city": "강릉시",
@@ -112,7 +114,7 @@
       {
         "id": "b1c90b11-9d5d-449b-8623-ede787ea2a55",
         "name": "자전거/전기바이크 대여",
-        "description": "자전거 대여 서비스로 주변 여행지를 더욱 자유롭게 즐기실 수 있습니다. ",
+        "description": "자전거 대여 서비스로 주변 여행지를 더욱 자유롭게 즐기실 수 있습니다.",
         "usageGuide": "[자전거/전기바이크 대여]\n- 일반 자전거 무료 대여\n- 일반자전거 외 타종류 객실 투숙객 기준 20%할인\n- 1층 라운지에서 신청가능",
         "displayOrder": 1,
         "images": [
@@ -243,7 +245,7 @@
         "id": "58784923-d1e8-4881-8f57-d68d4fe3fa82",
         "name": "조식 서비스",
         "description": "강문스테이에서는 조식 서비스가 제공됩니다. (유료) \n※ 401, 402, 501, 502호는 조식 포함",
-        "usageGuide": "[조식 서비스]\n- 이용 객실: 전 객실\n- 메뉴: 아메리칸 블랙퍼스트 (토스트, 시리얼, 음료 등)\n- 이용 요금: 1인 11,000원 (1박기준/현장결제)\n※ 조식 포함 객실 외 이용 요금 별도\n- 이용 시간: 07:00 ~ 09:00\n- 이용 장소: 1층 라운지\n",
+        "usageGuide": "- 이용 객실: 전 객실\n- 메뉴: 아메리칸 블랙퍼스트 (토스트, 시리얼, 음료 등)\n- 이용 요금: 1인 11,000원 (1박기준/현장결제)\n※ 조식 포함 객실 외 이용 요금 별도\n- 이용 시간: 07:00 ~ 09:00\n- 이용 장소: 1층 라운지",
         "displayOrder": 3,
         "images": [
           {
@@ -356,7 +358,7 @@
           {
             "id": "ce1140c9-c9d2-4b95-a2dd-185718903a1e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/MkYtTIB32ux8.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -366,7 +368,7 @@
           {
             "id": "b8b9d5b5-cc49-4cc1-82e2-4a8f34827d8d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/cZria1Yg9BSE.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -374,7 +376,7 @@
           {
             "id": "b4afec3f-5a4b-4540-a354-fc341b933a94",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/hFrS3ki2M9d8.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -382,7 +384,7 @@
           {
             "id": "8f84ba5d-6572-453c-9c1e-bda7e2916edd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/iuMx5jXp3gwN.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -390,7 +392,7 @@
           {
             "id": "968b63a5-462a-4da6-9071-f6e900ae41ba",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/iC8sa9gqfUjA.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -398,7 +400,7 @@
           {
             "id": "bd7e735b-ce2a-4ecd-8507-f78f188a2667",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/X8DynL7SR3wp.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -406,7 +408,7 @@
           {
             "id": "d95d1e05-ca6b-4d2f-bcb6-333926215b43",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/Jyz4o8IdBbnc.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -414,7 +416,7 @@
           {
             "id": "9bcb72c6-7d03-4f55-a80f-8f39debb9676",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/hUjidpufCP4g.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -422,7 +424,7 @@
           {
             "id": "47a924db-2276-40f8-a1a1-0a2d82b05bce",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/pa9C31BRWyFL.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -435,12 +437,15 @@
     "nameEn": "Gangneung Gangmun Stay",
     "domain": "gangmunstay.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/1023361894",
-    "ybsId": "75029"
+    "ybsId": "75029",
+    "tripPropertyId": "11279",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서"
   },
   "rooms": [
     {
       "id": "8cbd0806-8960-4159-8e54-a89140d06cc2",
-      "name": "201호(리버뷰)",
+      "name": "201호",
       "description": "원룸형, 침대룸(퀸침대1)+화장실1\r\n강전망, 6평\r\n욕실용품,TV,금연,냉장고,에어컨,OTT,드라이기,화장대,샴푸,린스,바디워시,비누,타월,테라스,커피포트",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
@@ -513,7 +518,7 @@
         {
           "thumbnail": [
             {
-              "id": "12f53be8-cbd7-4351-84da-13ed6dacb779",
+              "id": "01a13ddd-31d3-7983-8582-5fe6e24f391f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/FPBYSDikfKhO.jpg",
               "sortOrder": 1,
               "description": "",
@@ -523,7 +528,7 @@
           ],
           "interior": [
             {
-              "id": "501dccbc-4d59-41a0-ac19-378dcda0b9e3",
+              "id": "01a13ddd-31d3-7a65-8ccc-26d07608019f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/qremPIyLSCfK.jpg",
               "sortOrder": 2,
               "description": "",
@@ -531,7 +536,7 @@
               "blockId": null
             },
             {
-              "id": "a3e0a8bd-6bd3-4020-a915-7df7d558812b",
+              "id": "01a13ddd-31d3-7bb8-b690-701b4e257260",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/OLetDXwGulrH.jpg",
               "sortOrder": 3,
               "description": "",
@@ -539,7 +544,7 @@
               "blockId": null
             },
             {
-              "id": "26bee309-868f-44f7-8f8e-534a74a80003",
+              "id": "01a13ddd-31d3-7bfa-9f85-51cf588b56aa",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/mxL0uwcJDqsd.jpg",
               "sortOrder": 4,
               "description": "",
@@ -547,7 +552,7 @@
               "blockId": null
             },
             {
-              "id": "456dc16d-1601-4732-bc91-bcbb9ef002f5",
+              "id": "01a13ddd-31d3-7dd4-8749-cb3fc11fb7c2",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/jek7xYiEORfU.jpg",
               "sortOrder": 5,
               "description": "",
@@ -555,7 +560,7 @@
               "blockId": null
             },
             {
-              "id": "0c5b1c36-5231-4096-ad7e-53a732858cb8",
+              "id": "01a13ddd-31d3-7e67-b14f-8938a196d0d8",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/ATO50HXC7KNy.jpg",
               "sortOrder": 6,
               "description": "",
@@ -563,7 +568,7 @@
               "blockId": null
             },
             {
-              "id": "9f4f5042-8b3e-4734-aba9-e0800a833646",
+              "id": "01a13ddd-31d4-7059-91ad-060d2f2cfa63",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/SUrxo3YnOZd4.jpg",
               "sortOrder": 7,
               "description": "",
@@ -571,7 +576,7 @@
               "blockId": null
             },
             {
-              "id": "cd19502e-e6da-4b4a-a1bc-cccbe04a7259",
+              "id": "01a13ddd-31d4-7162-a3ff-c0b8c34ceff4",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/f3BERPtOaSZv.jpg",
               "sortOrder": 8,
               "description": "",
@@ -579,7 +584,7 @@
               "blockId": null
             },
             {
-              "id": "abf9d047-5e5c-4b73-93e0-cc38d1de335f",
+              "id": "01a13ddd-31d4-728f-bd5c-ee22105953d7",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/mydIe31WnHU4.jpg",
               "sortOrder": 9,
               "description": "",
@@ -594,7 +599,7 @@
     },
     {
       "id": "8e000c7a-ff5d-4c97-ba88-748808ddd949",
-      "name": "202호(리버뷰)",
+      "name": "202호",
       "description": "원룸형, 침대룸(퀸침대1)+화장실1\r\n강전망, 6평\r\n욕실용품,TV,금연,냉장고,에어컨,OTT,드라이기,화장대,샴푸,린스,바디워시,비누,타월,테라스,커피포트",
       "roomInfo": "원룸형 : 침대룸+화장실+개별테라스",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 영유아 포함 1박 기준 1인당 22,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 현장결제",
@@ -667,7 +672,7 @@
         {
           "thumbnail": [
             {
-              "id": "5dba7177-cd46-4648-8976-127ce28ed9d1",
+              "id": "01a13ddd-32a6-788a-a79b-890cc8aa51f1",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/RnFeI1vOzUyp.jpg",
               "sortOrder": 1,
               "description": "",
@@ -677,7 +682,7 @@
           ],
           "interior": [
             {
-              "id": "b90af8ba-d086-48b0-9b24-c3dfcc961aa4",
+              "id": "01a13ddd-32a7-76e8-b412-ea3feee458b4",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/1Sh5VeCK86Ea.jpg",
               "sortOrder": 2,
               "description": "",
@@ -685,7 +690,7 @@
               "blockId": null
             },
             {
-              "id": "3af9c8d6-410b-4bcb-be12-1791a2e3f1ed",
+              "id": "01a13ddd-32a7-77a9-9b5e-5691c2b47026",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/Rce610ai4OZg.jpg",
               "sortOrder": 3,
               "description": "",
@@ -693,7 +698,7 @@
               "blockId": null
             },
             {
-              "id": "572b16b5-90d8-444e-988b-972e3b30b2fa",
+              "id": "01a13ddd-32a7-7841-8028-e46958c57f3c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/293rpNS6PYIe.jpg",
               "sortOrder": 4,
               "description": "",
@@ -701,7 +706,7 @@
               "blockId": null
             },
             {
-              "id": "bc902973-d3d3-4dac-83d0-0a12c28a6c76",
+              "id": "01a13ddd-32a7-78e2-8d88-6fa88880a402",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/odhNLvF8EnKg.jpg",
               "sortOrder": 5,
               "description": "",
@@ -709,7 +714,7 @@
               "blockId": null
             },
             {
-              "id": "00bb0093-01e1-41a4-aba8-9ab4f561dfab",
+              "id": "01a13ddd-32a7-7950-9608-4f0d9d7125c7",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/pijfrBYAQkgb.jpg",
               "sortOrder": 6,
               "description": "",
@@ -717,7 +722,7 @@
               "blockId": null
             },
             {
-              "id": "5c37d2e8-66df-448f-a7c4-1c2030eb20b6",
+              "id": "01a13ddd-32a7-7a2b-adc8-2a2434367e00",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/se7L65fmcWAq.jpg",
               "sortOrder": 7,
               "description": "",
@@ -725,7 +730,7 @@
               "blockId": null
             },
             {
-              "id": "2e262916-a1a6-4cb3-b697-fa9e4592b41a",
+              "id": "01a13ddd-32a7-7b61-931b-0018376af439",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/IyiEFhq90lCd.jpg",
               "sortOrder": 8,
               "description": "",
@@ -733,7 +738,7 @@
               "blockId": null
             },
             {
-              "id": "d078be4c-5346-4be5-a33b-f31535bf9278",
+              "id": "01a13ddd-32a7-7c5a-85cb-3b57676fc72d",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/UQXChtie7j9E.jpg",
               "sortOrder": 9,
               "description": "",
@@ -741,7 +746,7 @@
               "blockId": null
             },
             {
-              "id": "47bc09b0-2345-4c5d-b116-753e5016c5e5",
+              "id": "01a13ddd-32a7-7cf0-865a-3bbab6a8cfc6",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/XB01dtIOQLfA.jpg",
               "sortOrder": 10,
               "description": "",
@@ -749,7 +754,7 @@
               "blockId": null
             },
             {
-              "id": "0f8fce01-e782-40ed-a83c-ed8d1d9737de",
+              "id": "01a13ddd-32a7-7d95-b925-f0c2a4354b0c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/08/07/KR0VgJHjh5AW.jpg",
               "sortOrder": 11,
               "description": "",
@@ -2999,8 +3004,8 @@
       "title": "강릉 강문스테이",
       "description": "강문해변과 경포해변 인근, 깔끔한 2021년 신축 펜션",
       "keywords": "강릉숙소,강릉펜션,강릉신축펜션,강문해변펜션,경포숙소,경포펜션,강릉여행숙소",
-      "naverSiteVerification": null,
-      "googleSiteVerification": null
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
     },
     "socialLinks": {
       "facebook": null,
@@ -3306,6 +3311,15 @@
               }
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "theme": {
